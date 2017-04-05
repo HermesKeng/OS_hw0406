@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491311948 source:/home/s410385007/OS_Hw/OS_hw0406/main.cpp
+	<iostream>
+	<sys/types.h>
+	<string.h>
+	<unistd.h>
+	<sstream>
+	<cstdlib>
+
